@@ -2,4 +2,4 @@
 
 ### Index:
 * arduino-store.  
-..*  Store data permanently. Only EEPROM for now but planning to add more. 
+  Store data permanently. Only EEPROM for now but planning to add more. 
